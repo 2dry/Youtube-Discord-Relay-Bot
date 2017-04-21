@@ -1,0 +1,15 @@
+{
+  "name": "Youtube-Discord-Relay-Bot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
